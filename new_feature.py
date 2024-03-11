@@ -1,1 +1,1 @@
-print("It's new feature!!")
+print("CONFLICT 2")
